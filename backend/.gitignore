@@ -7,5 +7,5 @@ coverage/
 
 yarn-error.lock
 
-tmp/*
-!tmp/.gitkeep
+tmp/**/*.*
+!tmp/**/*.gitkeep
