@@ -5,6 +5,8 @@ build/
 temp/
 coverage/
 
+.env
+ormconfig.json
 yarn-error.lock
 
 tmp/**/*.*
